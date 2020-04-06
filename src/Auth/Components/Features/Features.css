@@ -1,8 +1,0 @@
-.feature-top{
-    max-width: 40%;
-}
-@media (max-width:1200px){
-    .feature-top{
-        max-width: 100%;
-    }
-}
